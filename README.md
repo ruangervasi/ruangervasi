@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ruangervasi/ruangervasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -12,5 +9,3 @@ Here are some ideas to get you started:
 <a href="ruan@ruangervasi.com.br"><img alt="Email" src="https://img.shields.io/badge/ruan@ruangervasi.com.br?style=flat&logo=gmail"></a>
 </p>
 ![Ruangervasi's github stats](https://github-readme-stats.vercel.app/api?username=ruangervasi&show_icons=true&theme=dracula)
-
--->
