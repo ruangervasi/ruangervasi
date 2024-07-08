@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ReactJS in Projects with NextJS and GatsbyJS
 - 🌱 I’m currently learning about robust frontend architectures and DevOps and CI/CD with AWS Services
 - 👯 I’m looking to collaborate on ReactJS projects
