@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 <a href="mailto:ruan@ruangervasi.com.br"><img alt="Email" src="https://img.shields.io/badge/ruan@ruangervasi.com.br-blue?style=flat&logo=gmail"></a>
 </p>
 
-![Ruangervasi's github stats](https://github-readme-stats.vercel.app/api?username=ruangervasi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangervasi&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<> ![Ruangervasi's github stats](https://github-readme-stats.vercel.app/api?username=ruangervasi&show_icons=true&theme=dracula)
+<> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangervasi&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
